@@ -1,4 +1,4 @@
-﻿---
+---
 name: minsu-hongbao
 slug: minsu-hongbao
 displayName: 民宿短租红包助手
